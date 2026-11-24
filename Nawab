@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nawab Rajput - Portfolio</title>
+<style>
+body { font-family: Arial; text-align: center; background: #111; color: white; padding: 40px; }
+.box { background: white; color: black; padding: 30px; border-radius: 20px; max-width: 420px; margin: auto; border: 4px solid gold; }
+h1 { color: #b8860b; font-size: 32px; }
+.tag { background: gold; padding: 5px 15px; border-radius: 20px; font-weight: bold; }
+button { background: black; color: gold; padding: 12px 25px; border: 2px solid gold; border-radius: 10px; font-size: 16px; }
+</style>
+</head>
+<body>
+<div class="box">
+<p class="tag">👑 NAWAB RAJPUT 👑</p>
+<h1>Nawab Rajput</h1>
+<p>Hi, I'm Nawab Rajput.<br>Learning coding on GitHub.</p>
+<p><b>Skills:</b> HTML | Learning Python | GitHub</p>
+<button onclick="alert('Nawab Rajput - Thanks for visiting!')">Contact Me</button>
+</div>
+<p style="margin-top:20px; color: gold;">Made by Nawab Rajput 👑</p>
+</body>
+</html>
